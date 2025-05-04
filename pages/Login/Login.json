@@ -1,24 +1,23 @@
 {
-  "gitSyncId": "6814ff01d2463f537ba0a7a4_91cd5005-4b06-4e98-b34a-a78f414a784f",
+  "gitSyncId": "681500ecd2463f537ba0a7ad_f70a11b0-aad6-4f22-bb13-e1ae70994f89",
   "unpublishedPage": {
-    "isHidden": false,
+    "customSlug": "Login",
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 380,
+          "bottomRow": 690,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
           "dynamicBindingPathList": [],
-          "dynamicTriggerPathList": [],
           "leftColumn": 0,
-          "minHeight": 1292,
+          "minHeight": 760,
           "parentColumnSpace": 1,
           "parentRowSpace": 1,
-          "rightColumn": 4896,
+          "rightColumn": 1224,
           "snapColumns": 64,
-          "snapRows": 124,
+          "snapRows": 74,
           "topRow": 0,
           "type": "CANVAS_WIDGET",
           "version": 92,
@@ -27,7 +26,7 @@
         }
       }
     ],
-    "name": "home",
-    "slug": "home"
+    "name": "Login",
+    "slug": "login"
   }
 }
